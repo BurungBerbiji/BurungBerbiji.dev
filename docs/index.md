@@ -6,6 +6,9 @@ hero:
   name: "Burung Berbiji"
   text: "BB Projects"
   tagline: Never Give Up. Unless, if there's nothing we can do.
+  image:
+    src: /Ball.jpeg
+    alt: VitePress
   actions:
     - theme: brand
       text: Look in Github
